@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "L'inizio del viaggio",
+    "date": "12 Ottobre, 1893",
+    "content": "Mio caro amico,\n\nHo finalmente raggiunto la locanda ai confini della foresta nera. L'aria qui è pesante, e le ombre sembrano allungarsi innaturalmente verso sera. Non so cosa troverò domani, ma sento che la verità è vicina.",
+    "sender": "A. V."
+  },
+  {
+    "id": 2,
+    "title": "Voci nel villaggio",
+    "date": "14 Ottobre, 1893",
+    "content": "Nessuno vuole parlare del vecchio maniero sulla collina. Quando chiedo indicazioni, i paesani fanno il segno della croce e si allontanano in fretta.\nHo trovato però un vecchio diario nella biblioteca locale che menziona 'luci che danzano nella nebbia'.",
+    "sender": "A. V."
+  }
+]
